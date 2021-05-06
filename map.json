@@ -40,9 +40,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"openWebsite",
                  "type":"file",
-                 "value":"https:\/\/drive.google.com\/drive\/u\/0\/folders\/1YWzQjUxN7jHVSAr7Jd3d-QbBugVYRbKF"
+                 "value":"https:\/\/www.youtube.com\/embed\/A3pJB4m713M"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -204,7 +204,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/creative.maworldgroup.com\/creative\/pierre-p-marchal\/"
+                 "value":"https:\/\/creative.maworldgroup.com\/creative\/pierre-p-marchal"
                 }],
          "type":"tilelayer",
          "visible":true,
