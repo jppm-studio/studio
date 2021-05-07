@@ -40,9 +40,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/w.soundcloud.com\/player\/?url=https%3A\/\/api.soundcloud.com\/tracks\/489985656&color=%23190805&autautoplay=allow&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=true"
+                 "value":"https:\/\/www.youtube.com\/watch?v=fzRrPJZ1u3g"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -77,8 +77,8 @@
          "properties":[
                 {
                  "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/www.instagram.com\/p\/B_8IM_QIl_n\/?igshid=1u3lcnoqis81c"
+                 "type":"file",
+                 "value":"..\/..\/JPPM Never Ending Mood-Board sur Instagram Passion \ud83c\udf38 with @mathildegautier_ ongoing #herbarium , Passion \ud83c\udf39 with @aiilosmalacatones #rose #butt older , Passion \ud83e\udd1a with magical\u2026.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -204,7 +204,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/creative.maworldgroup.com\/creative\/pierre-p-marchal"
+                 "value":"https:\/\/itstillworks.com\/url-sound-file-6331388.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -276,7 +276,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.adidas.fr"
+                 "value":"https:\/\/assets.community.lomography.com\/48\/830c603e2d73db2260319a6d2d35c994fb097d\/704x704x2.jpg?auth=c8c3eba725d65943db49f6e78751f923adc15efe"
                 }],
          "type":"tilelayer",
          "visible":true,
