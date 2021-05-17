@@ -273,7 +273,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.monthdayyear.xyz"
+                 "value":"https:\/\/monthdayyear.xyz\/wp-content\/uploads\/2021\/02\/DossierdePresse_MDY_Phantasm_en_v2_ld.pdf"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -383,7 +383,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":59,
          "x":0,
          "y":0
