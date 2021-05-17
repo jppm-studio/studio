@@ -222,7 +222,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.instagram.com\/p\/CLC0Zo0oMYy\/?utm_source=ig_embed&amp;utm_campaign=loading"
+                 "value":"https:\/\/www.instagram.com\/embed\/p\/CM0BF41L3cI\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
