@@ -61,6 +61,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"conferenceRoom"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -205,6 +210,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/creative.maworldgroup.com\/creative\/pierre-p-marchal\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -246,6 +256,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/monthdayyear.xyz\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -264,6 +279,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.monthdayyear.xyz"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
