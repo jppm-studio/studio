@@ -114,7 +114,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/assets.community.lomography.com\/48\/830c603e2d73db2260319a6d2d35c994fb097d\/704x704x2.jpg?auth=https:\/\/manonbeyer.fr\/img\/Jppm\/JPPM_2.jpg"
+                 "value":"https:\/\/manonbeyer.fr\/img\/Jppm\/JPPM_2.jpg"
                 }],
          "type":"tilelayer",
          "visible":true,
